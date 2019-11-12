@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "842452667443",
+    "firebase_url": "https://databasedemo-7b7ba.firebaseio.com",
+    "project_id": "databasedemo-7b7ba",
+    "storage_bucket": "databasedemo-7b7ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842452667443:android:46da4523c01afaf3e86746",
+        "android_client_info": {
+          "package_name": "com.example.homework4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842452667443-3hj0jqhijkkdoko4i4kl27su339nt4bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMCJK2viUobvnxeoQ-OOpup1S6-wpNA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842452667443-3hj0jqhijkkdoko4i4kl27su339nt4bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842452667443:android:ef48d5a62d05209de86746",
+        "android_client_info": {
+          "package_name": "com.example.nosqldemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842452667443-3hj0jqhijkkdoko4i4kl27su339nt4bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMCJK2viUobvnxeoQ-OOpup1S6-wpNA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842452667443-3hj0jqhijkkdoko4i4kl27su339nt4bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
